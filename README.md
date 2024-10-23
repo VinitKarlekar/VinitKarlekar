@@ -28,10 +28,5 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48" alt="HTML5" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" alt="CSS3" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" height="48" alt="R" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="48" alt="PHP" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="MySQL" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" alt="Docker" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="48" alt="Photoshop" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 8px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
 
