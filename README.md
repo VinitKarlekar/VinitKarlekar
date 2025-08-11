@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/vinit-karlekar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
     <a href="https://github.com/VinitKarlekar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
     <a href="https://drive.google.com/file/d/127LpjPAgP4buqUOsPMsrLjfwPfWYQd0K/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DB4437?style=for-the-badge&logo=google-drive&logoColor=white" height="28"></a>
+  
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=VinitKarlekar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
@@ -24,8 +25,20 @@ I am a results-driven DevOps enthusiast currently pursuing an Integrated M.Tech 
 
 - 🎓 **Education:** Integrated M.Tech in Data Science, Vellore Institute of Technology.
 - 🚀 **Core Focus:** DevOps, Cloud Infrastructure, CI/CD, and Infrastructure as Code (IaC).
-- 💡 **Key Strengths:** Experienced in deploying scalable web applications on **AWS** and implementing robust CI/CD pipelines using **Jenkins** and **GitHub Actions**, **Terraform**.
--  Excites **Me:** I am always exploring new technologies and am particularly excited by the potential of **Kubernetes** and serverless architectures to transform modern infrastructure.
+- 💡 **Key Strengths:** Experienced in deploying scalable web applications on **AWS** and implementing robust CI/CD pipelines using **Jenkins** and **GitHub Actions**.
+- **What Excites Me:** I am always exploring new technologies and am particularly excited by the potential of **Kubernetes** and serverless architectures to transform modern infrastructure.
+
+---
+
+### 📄 View My Resume
+
+<p align="center">
+  Interested in my full professional background? Check out my resume for a detailed look at my skills and experience.
+  <br><br>
+  <a href="https://drive.google.com/file/d/127LpjPAgP4buqUOsPMsrLjfwPfWYQd0K/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume_(PDF)-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume">
+  </a>
+</p>
 
 ---
 
