@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Connect with me:</h3>**
 <p align="left"><a href="https://github.com/VinitKarlekar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/vinitkarlekar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vinit-karlekar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 **<h3 align="left">🚀 DevOps enthusiast with a passion for automation and cloud technologies. Experienced in deploying scalable web applications on AWS using Elastic Beanstalk and Terraform, and implementing efficient CI/CD pipelines to optimize software delivery.</h3>**
@@ -42,7 +42,7 @@
 </div>
 
 **<h3 align="left">About Me</h3>**
-I am a DevOps enthusiast with a strong foundation in cloud technologies, automation, and infrastructure management. My experience includes deploying scalable applications on AWS, implementing CI/CD pipelines, and utilizing tools like Terraform and Ansible for infrastructure as code. I am passionate about optimizing software delivery processes and enhancing system reliability. Currently, I am pursuing an Integrated M.Tech in Data Science at Vellore Institute of Technology, where I continue to expand my knowledge in both data science and DevOps practices.
+I am a DevOps enthusiast with a strong foundation in cloud technologies, automation, and infrastructure management. My experience includes deploying scalable applications on AWS, implementing CI/CD pipelines, and utilizing tools like Terraform and Ansible for infrastructure as code. I am passionate about optimizing software delivery processes and enhancing system reliability. Currently, I am pursuing an Integrated M.Tech in Data Science at Vellore Institute of Technology, where I continue to expand my knowledge in both data science and DevOps practices. You can view my full resume [here](https://drive.google.com/file/d/127LpjPAgP4buqUOsPMsrLjfwPfWYQd0K/view?usp=sharing).
 
 **<h3 align="left">Let's Connect!</h3>**
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/vinit-karlekar/) or check out my projects on [GitHub](https://github.com/VinitKarlekar). I'm always open to discussing new opportunities, collaborations, or just chatting about the latest in DevOps and cloud technologies!
