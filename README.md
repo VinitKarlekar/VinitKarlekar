@@ -21,7 +21,7 @@
 
 ### About Me
 
-I am a results-driven DevOps enthusiast currently pursuing an Integrated M.Tech in Data Science at Vellore Institute of Technology. My passion lies in optimizing software delivery and enhancing system reliability through automation and cloud-native solutions.
+I am a DevOps enthusiast currently pursuing an Integrated M.Tech in Data Science at Vellore Institute of Technology. My passion lies in optimizing software delivery and enhancing system reliability through automation and cloud-native solutions.
 
 - 🎓 **Education:** Integrated M.Tech in Data Science, Vellore Institute of Technology.
 - 🚀 **Core Focus:** DevOps, Cloud Infrastructure, CI/CD, and Infrastructure as Code (IaC).
