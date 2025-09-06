@@ -9,7 +9,7 @@
   <p>
     <a href="https://www.linkedin.com/in/vinit-karlekar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
     <a href="https://github.com/VinitKarlekar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
-    <a href="https://drive.google.com/file/d/127LpjPAgP4buqUOsPMsrLjfwPfWYQd0K/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DB4437?style=for-the-badge&logo=google-drive&logoColor=white" height="28"></a>
+    <a href="https://drive.google.com/drive/folders/1Ui8LSiMzK5O4XHBfwoSKVLhD7_PsKEUE?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DB4437?style=for-the-badge&logo=google-drive&logoColor=white" height="28"></a>
   
   </p>
   <p>
