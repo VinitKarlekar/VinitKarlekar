@@ -25,8 +25,18 @@ I am a DevOps enthusiast currently pursuing an Integrated M.Tech in Data Science
 
 - 🎓 **Education:** Integrated M.Tech in Data Science, Vellore Institute of Technology.
 - 🚀 **Core Focus:** DevOps, Cloud Infrastructure, CI/CD, and Infrastructure as Code (IaC).
-- 💡 **Key Strengths:** Experienced in deploying scalable web applications on **AWS** and implementing robust CI/CD pipelines using **Jenkins** and **GitHub Actions**.
+- 💡 **Key Strengths:** Experienced in deploying scalable web applications on **AWS** and implementing robust CI/CD pipelines using **Jenkins** and **GitHub Actions**. Skilled in **Kubernetes, Docker, Helm, and Prometheus** for modern cloud-native infrastructure.
 - **What Excites Me:** I am always exploring new technologies and am particularly excited by the potential of **Kubernetes** and serverless architectures to transform modern infrastructure.
+
+---
+
+### 🛠️ Skills Summary
+- **Programming & Scripting:** C++, Python, Bash, YAML  
+- **Cloud:** AWS (EC2, VPC, Security Groups, ECS, Route 53, S3, CloudWatch, Load Balancer, Elastic Beanstalk)  
+- **Containerization:** Docker, Minikube, Kubernetes (Kubectl), Helm  
+- **Tools & DevOps:** Linux, Git/GitHub, Jenkins, GitHub Actions, Terraform, Ansible, Vagrant  
+- **Monitoring & Logging:** AWS CloudWatch, Prometheus, Grafana (basic)  
+- **Frameworks & Libraries:** Django, NumPy, Pandas, Scikit-learn, Matplotlib, Machine Learning  
 
 ---
 
@@ -35,10 +45,11 @@ I am a DevOps enthusiast currently pursuing an Integrated M.Tech in Data Science
 <p align="center">
   Interested in my full professional background? Check out my resume for a detailed look at my skills and experience.
   <br><br>
-  <a href="https://drive.google.com/drive/folders/1Ui8LSiMzK5O4XHBfwoSKVLhD7_PsKEUE?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1Ui8LSiMzK5O4XHBfwoSKVLhD7_PsKEUE?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_Resume_(PDF)-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume">
   </a>
 </p>
+
 
 ---
 
